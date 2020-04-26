@@ -1,3 +1,4 @@
 RA: 920120589
 Nome: Salatiel dos Santos Pereira
-Curso: Sistema de Informaçao
+Data Nascimento:
+Email:
